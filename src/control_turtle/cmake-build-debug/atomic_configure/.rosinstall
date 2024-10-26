@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zgh/ROS_Projects/turtle_chase/src/control_turtle/cmake-build-debug/devel/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/zgh/ROS_Projects/turtle_chase/src/pub_turtle/cmake-build-debug/devel
+
+Name: pub_turtle
+Description: Description of pub_turtle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

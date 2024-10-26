@@ -1,0 +1,2 @@
+control_turtle:new_turtle:pub_turtle
+-DCATKIN_DEVEL_PREFIX=/home/zgh/ROS_Projects/turtle_chase/devel -DCMAKE_INSTALL_PREFIX=/home/zgh/ROS_Projects/turtle_chase/install -G Unix Makefiles

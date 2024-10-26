@@ -1,0 +1,8 @@
+prefix=/home/zgh/ROS_Projects/turtle_chase/install
+
+Name: new_turtle
+Description: Description of new_turtle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

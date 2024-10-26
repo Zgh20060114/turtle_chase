@@ -1,0 +1,8 @@
+prefix=/home/zgh/ROS_Projects/turtle_chase/src/control_turtle/cmake-build-debug/devel
+
+Name: control_turtle
+Description: Description of control_turtle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

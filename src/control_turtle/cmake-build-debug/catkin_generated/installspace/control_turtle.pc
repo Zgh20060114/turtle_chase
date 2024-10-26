@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: control_turtle
+Description: Description of control_turtle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
